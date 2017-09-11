@@ -1623,11 +1623,11 @@
 	}
 
 	body {
-		background-color: #935d8c;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
+		background-color: #F05E1C;
+		background-image: url("images/overlay.png"), -moz-linear-gradient(30deg, #5f4d93 15%, #2ec3e7 30%, #f7b733 60%, #F05E1C 85%);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(30deg, #5f4d93 15%, #2ec3e7 30%, #f7b733 60%, #F05E1C 85%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(30deg, #5f4d93 15%, #2ec3e7 30%, #f7b733 60%, #F05E1C 85%);
+		background-image: url("images/overlay.png"), linear-gradient(30deg, #5f4d93 15%, #2ec3e7 30%, #f7b733 60%, #F05E1C 85%);
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -1650,7 +1650,7 @@
 
 	body, input, select, textarea {
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
-		font-size: 17pt;
+		font-size: 20pt;
 		font-weight: 300;
 		line-height: 1.65;
 	}
@@ -2345,19 +2345,20 @@
 			}
 
 		.icon.style1 {
-			color: #efa8b0;
+			color: #eb6e25;
 		}
 
 		.icon.style2 {
-			color: #c79cc8;
+			color: #EFBB24
+;
 		}
 
 		.icon.style3 {
-			color: #a89cc8;
+			color: #A5DEE4;
 		}
 
 		.icon.style4 {
-			color: #9bb2e1;
+			color: #51A8DD;
 		}
 
 		.icon.style5 {
